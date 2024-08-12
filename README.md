@@ -26,8 +26,9 @@ cd dice-roller
 Ensure you have Ruby installed. Then, install the required gems:
 
 ```sh
-bundle install
+gem install rspec
 ```
+
 
 ## Usage
 
