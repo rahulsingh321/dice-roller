@@ -22,9 +22,3 @@ class Simulator
     .join(', ')
   end
 end
-
-
-simulator = Simulator.new([6,8,8,6,20])
-results   = simulator.roll
-
-puts "VIEW RESULTS: #{results}"
