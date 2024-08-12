@@ -18,7 +18,7 @@ To use or contribute to this project, follow these steps:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/dice-roller.git
+git clone https://github.com/rahulsingh321/dice-roller.git
 cd dice-roller
 ```
 
